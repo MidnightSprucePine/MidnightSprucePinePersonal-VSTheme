@@ -1,2 +1,49 @@
+![Logo](/Img/icon.png)
+
 # MidnightSprucePinePersonal-VSTheme
+
 Midnight Spruce Pine Personal (Hot Pink Accents instead of blue)
+
+Original personal theme before adding blue accents to the version uploaded to Marketplace.  If you want the Blue accent version you can <a href="https://marketplace.visualstudio.com/items?itemName=jasonhartsoe.midnightsprucepine100" target="_blank">Download and Install It From Visual Studio Marketplace</a>  (**Control + Click** For New Window)<br />
+<br />
+For optimal look and feel, download and install the [Dank Mono](https://dank.sh/) font.  You can also download and install [Fira Code](https://github.com/tonsky/FiraCode) for free as an alternative font.<br />
+<br/>
+<br/>
+Current Version 1.2
+- Updated Color Scheme.  Removed Hot Pink and replaced with Blue
+- Fixed White Out Issue when using Ctl+Q
+<br />
+<br />
+
+**Start / Welcome Screen**<br/>
+![C#](/Img/welcome.png)
+
+<br/>
+<br/>
+
+**C#**<br/>
+![C#](/Img/csharp.png)
+
+<br/>
+<br/>
+
+**JAVASCRIPT**<br/>
+![C#](/Img/js.png)
+
+<br/>
+<br/>
+
+**JSON**<br/>
+![C#](/Img/json.png)
+
+<br/>
+<br/>
+
+**HTML**<br/>
+![C#](/Img/html.png)
+
+<br/>
+<br/>
+
+**CSS**<br/>
+![C#](/Img/css.png)

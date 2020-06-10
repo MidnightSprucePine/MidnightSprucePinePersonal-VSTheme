@@ -7,6 +7,9 @@ Midnight Spruce Pine Personal (Hot Pink Accents instead of blue)
 Original personal theme before adding blue accents to the version uploaded to Marketplace.  If you want the Blue accent version you can <a href="https://marketplace.visualstudio.com/items?itemName=jasonhartsoe.midnightsprucepine100" target="_blank">Download and Install It From Visual Studio Marketplace</a>  (**Control + Click** For New Window)<br />
 <br />
 For optimal look and feel, download and install the [Dank Mono](https://dank.sh/) font.  You can also download and install [Fira Code](https://github.com/tonsky/FiraCode) for free as an alternative font.<br />
+<br />
+<br />
+After installing this extension, the theme will be available in the dropdown menu under **Tools -> Options -> General -> Midnight Spruce Pine Personal**.  You can also use the Theme Editor to select this theme.
 <br/>
 <br/>
 Current Version 1.2
